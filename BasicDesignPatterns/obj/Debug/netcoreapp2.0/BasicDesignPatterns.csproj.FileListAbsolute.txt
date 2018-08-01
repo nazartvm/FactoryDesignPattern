@@ -1,0 +1,11 @@
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\bin\Debug\netcoreapp2.0\BasicDesignPatterns.deps.json
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\bin\Debug\netcoreapp2.0\BasicDesignPatterns.runtimeconfig.json
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\bin\Debug\netcoreapp2.0\BasicDesignPatterns.runtimeconfig.dev.json
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\bin\Debug\netcoreapp2.0\BasicDesignPatterns.dll
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\bin\Debug\netcoreapp2.0\BasicDesignPatterns.pdb
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\obj\Debug\netcoreapp2.0\BasicDesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\obj\Debug\netcoreapp2.0\BasicDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\obj\Debug\netcoreapp2.0\BasicDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\obj\Debug\netcoreapp2.0\BasicDesignPatterns.AssemblyInfo.cs
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\obj\Debug\netcoreapp2.0\BasicDesignPatterns.dll
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\BasicDesignPatterns\BasicDesignPatterns\obj\Debug\netcoreapp2.0\BasicDesignPatterns.pdb
